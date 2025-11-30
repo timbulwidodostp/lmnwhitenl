@@ -1,6 +1,8 @@
 # lmnwhitenl
 NLS Non Normality White Test Use lmnwhitenl With STATA 19
 
+https://www.youtube.com/watch?v=Szh9s9J2hKY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
